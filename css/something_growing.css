@@ -1,0 +1,11 @@
+body {
+    font-family: 'Lora', 'serif';
+    font-style: italic;
+}
+
+#container {
+    text-align: center;
+    /* background: pink; */
+    margin: 0 auto;
+    width: 1000px;
+}
